@@ -1,0 +1,10 @@
+__pycache__
+*.session
+*.session-journal
+chromedriver.exe
+*.ipynb
+test*
+tele.py
+*.crdownload
+*.mp4
+*.mkv
